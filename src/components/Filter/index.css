@@ -1,0 +1,53 @@
+.filter-container {
+    margin-top: 20px;
+  }
+  
+  .filter-heading {
+    font-family: 'Roboto';
+    color: #f1f5f9;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .employment-list-container {
+    list-style-type: none;
+    padding-left: 0px;
+    border-bottom: 2px solid white;
+  }
+  
+  .employment-list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .check-box {
+    margin-right: 10px;
+    width: 15px;
+    height: 15px;
+  }
+  
+  .label-text {
+    font-family: 'Roboto';
+    color: #f1f5f9;
+    font-size: 13px;
+    font-weight: 400;
+  }
+  
+  .salary-list-container {
+    list-style-type: none;
+    padding-left: 0px;
+  }
+  
+  .salary-list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .radio-btn {
+    margin-right: 10px;
+    width: 15px;
+    height: 15px;
+  }
+  
